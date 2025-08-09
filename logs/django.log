@@ -34,3 +34,18 @@ INFO 2025-08-09 13:12:03,324 basehttp 29728 26212 "GET /static/admin/img/tooltag
 INFO 2025-08-09 13:12:13,500 basehttp 29728 26212 "GET /admin/ HTTP/1.1" 200 13696
 INFO 2025-08-09 13:17:48,298 autoreload 29728 20848 C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\jobtracker\settings\base.py changed, reloading.
 INFO 2025-08-09 13:17:56,243 autoreload 30052 30356 Watching for file changes with StatReloader
+INFO 2025-08-09 13:27:33,511 basehttp 30052 17012 "GET /admin/ HTTP/1.1" 200 17803
+INFO 2025-08-09 13:27:33,560 basehttp 30052 17012 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-08-09 13:27:33,561 basehttp 30052 16396 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-08-09 13:27:33,565 basehttp 30052 15028 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2025-08-09 13:27:33,565 basehttp 30052 19928 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-08-09 13:27:33,570 basehttp 30052 19796 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-08-09 13:27:33,572 basehttp 30052 22212 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-08-09 13:27:33,578 basehttp 30052 22212 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-08-09 13:27:41,329 basehttp 30052 22212 "GET /admin/companies/company/ HTTP/1.1" 200 25897
+INFO 2025-08-09 13:27:41,377 basehttp 30052 22212 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2025-08-09 13:27:41,390 basehttp 30052 22212 "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+INFO 2025-08-09 13:27:41,396 basehttp 30052 19796 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-08-09 13:27:41,397 basehttp 30052 22212 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2025-08-09 13:27:41,426 basehttp 30052 22212 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2025-08-09 13:27:41,428 basehttp 30052 19796 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
