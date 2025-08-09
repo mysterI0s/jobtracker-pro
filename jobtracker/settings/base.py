@@ -1,4 +1,3 @@
-# jobtracker/settings/base.py
 from pathlib import Path
 from decouple import config
 import dj_database_url
@@ -27,6 +26,7 @@ DJANGO_APPS = [
 THIRD_PARTY_APPS = [
     'rest_framework',
     'corsheaders',
+    'django_celery_beat',
 ]
 
 LOCAL_APPS = [
