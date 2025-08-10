@@ -2,10 +2,13 @@ import os
 import sys
 import django
 
-# Add the Django project to Python path
-sys.path.append(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), '..'))
+# Ensure the Django project root is on PYTHONPATH so 'jobtracker' is importable
+current_dir = os.path.dirname(os.path.abspath(__file__))  # .../scrapers/jobscraper/jobscraper
+project_root = os.path.abspath(os.path.join(current_dir, '..', '..', '..'))  # go up to repo root
+if project_root not in sys.path:
+    sys.path.insert(0, project_root)
 
-# Setup Django settings
+# Configure Django settings and initialize Django
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'jobtracker.settings')
 django.setup()
 
@@ -42,7 +45,8 @@ AUTOTHROTTLE_TARGET_CONCURRENCY = 2.0
 
 # Logging
 LOG_LEVEL = 'INFO'
-LOG_FILE = '../logs/scrapy.log'
+# Write Scrapy logs to the project's logs directory
+LOG_FILE = os.path.join(project_root, 'logs', 'scrapy.log')
 
 # Custom settings
 JOBTRACKER_DUPLICATE_FILTER = True

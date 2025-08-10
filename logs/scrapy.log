@@ -1,0 +1,202 @@
+2025-08-10 17:39:40 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:39:40 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:39:43 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:39:43 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:39:44 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:39:44 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:39:46 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:39:46 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:39:49 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:39:49 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:39:51 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:39:51 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:39:53 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:39:53 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:39:55 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:39:55 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:40:00 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:40:00 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:40:01 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:40:01 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:40:03 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:40:03 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:40:06 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:40:06 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:40:07 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:40:07 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:40:10 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:40:10 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:40:11 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:40:11 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:40:13 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:40:13 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:40:15 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:40:15 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:40:17 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:40:17 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:40:19 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:40:19 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:40:27 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:40:27 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:40:29 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:40:29 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:40:31 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:40:31 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:40:33 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:40:33 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:40:35 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:40:35 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:40:37 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:40:37 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:40:39 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:40:39 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:40:41 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:40:41 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:40:43 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:40:43 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:40:45 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:40:45 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:40:47 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:40:47 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:40:49 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:40:49 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:40:51 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:40:51 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:40:53 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:40:53 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:40:55 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:40:55 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:40:58 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:40:58 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:40:59 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:40:59 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:41:01 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:41:01 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:41:04 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:41:04 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:41:07 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:41:07 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:41:08 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:41:08 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:41:09 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:41:09 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:41:13 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:41:13 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:41:14 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:41:14 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:41:16 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:41:16 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:41:18 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:41:18 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:41:20 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:41:20 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:41:22 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:41:22 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:41:24 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:41:24 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:41:26 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:41:26 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:41:28 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:41:28 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:41:30 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:41:30 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:41:32 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:41:32 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:41:34 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:41:34 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:41:36 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:41:36 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:41:38 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:41:38 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:41:40 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:41:40 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:41:42 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:41:42 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:41:44 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:41:44 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:41:46 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:41:46 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:41:48 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:41:48 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:41:50 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:41:50 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:41:52 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:41:52 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:41:54 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:41:54 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:41:56 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:41:56 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:41:58 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:41:58 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:42:00 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:42:00 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:42:02 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:42:02 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:42:04 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:42:04 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:42:06 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:42:06 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:42:08 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:42:08 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:42:10 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:42:10 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:42:12 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:42:12 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:42:14 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:42:14 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:42:16 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:42:16 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:42:19 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:42:19 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:42:20 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:42:20 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:42:22 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:42:22 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:42:24 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:42:24 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:42:26 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:42:26 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:42:28 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:42:28 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:42:30 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:42:30 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:42:32 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:42:32 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:42:34 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:42:34 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:42:36 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:42:36 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:42:39 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:42:39 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:42:40 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:42:40 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:42:43 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:42:43 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:42:44 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:42:44 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:42:46 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:42:46 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:42:48 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:42:48 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:42:50 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:42:50 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:42:52 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:42:52 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:42:54 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:42:54 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:42:57 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:42:57 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:42:58 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:42:58 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:43:00 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:43:00 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:43:02 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:43:02 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:43:04 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:43:04 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:43:06 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:43:06 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:43:08 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:43:08 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:43:10 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:43:10 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
