@@ -293,11 +293,6 @@ celery -A celery_app beat -l info
 
 ---
 
-## License
-Add your preferred license (e.g., MIT) here.
-
----
-
 ## Acknowledgements
 - Built with Django, Scrapy, Celery, Redis.
 - JSON-LD extraction where available to improve data quality.
