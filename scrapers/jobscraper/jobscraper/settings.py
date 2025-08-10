@@ -10,6 +10,8 @@ if project_root not in sys.path:
 
 # Configure Django settings and initialize Django
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'jobtracker.settings')
+# Allow synchronous ORM usage in async contexts (Scrapy runs under an async reactor)
+os.environ.setdefault('DJANGO_ALLOW_ASYNC_UNSAFE', 'true')
 django.setup()
 
 # Scrapy settings for jobscraper project

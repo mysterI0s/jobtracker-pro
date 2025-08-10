@@ -200,3 +200,996 @@
 2025-08-10 17:43:08 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
 2025-08-10 17:43:10 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
 2025-08-10 17:43:10 [jobscraper.pipelines] ERROR: Error saving job to database: You cannot call this from an async context - use a thread or sync_to_async.
+2025-08-10 17:56:26 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:56:26 [jobscraper.pipelines] INFO: Created new company: Unknown Company
+2025-08-10 17:56:26 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:56:26.197771) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:56:26 [jobscraper.pipelines] INFO: Created new job: 26
+2025-08-10 17:56:26 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:56:28 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:56:28 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:56:28.081584) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:56:28 [jobscraper.pipelines] INFO: Created new job: 27
+2025-08-10 17:56:28 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:56:30 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:56:30 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:56:30.316676) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:56:30 [jobscraper.pipelines] INFO: Created new job: 28
+2025-08-10 17:56:30 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:56:32 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:56:32 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:56:32.506676) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:56:32 [jobscraper.pipelines] INFO: Created new job: 29
+2025-08-10 17:56:32 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:56:34 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:56:34 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:56:34.463963) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:56:34 [jobscraper.pipelines] INFO: Created new job: 30
+2025-08-10 17:56:34 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:56:36 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:56:36 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:56:36.641152) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:56:36 [jobscraper.pipelines] INFO: Created new job: 31
+2025-08-10 17:56:36 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:56:38 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:56:38 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:56:38.368793) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:56:38 [jobscraper.pipelines] INFO: Created new job: 32
+2025-08-10 17:56:38 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:56:40 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:56:40 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:56:40.283274) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:56:40 [jobscraper.pipelines] INFO: Created new job: 33
+2025-08-10 17:56:40 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:56:42 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:56:42 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:56:42.301408) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:56:42 [jobscraper.pipelines] INFO: Created new job: 34
+2025-08-10 17:56:42 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:56:44 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:56:44 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:56:44.265529) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:56:44 [jobscraper.pipelines] INFO: Created new job: 35
+2025-08-10 17:56:44 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:56:46 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:56:46 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:56:46.332895) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:56:46 [jobscraper.pipelines] INFO: Created new job: 36
+2025-08-10 17:56:46 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:56:48 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:56:48 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:56:48.350083) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:56:48 [jobscraper.pipelines] INFO: Created new job: 37
+2025-08-10 17:56:48 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:56:50 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:56:50 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:56:50.355057) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:56:50 [jobscraper.pipelines] INFO: Created new job: 38
+2025-08-10 17:56:50 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:56:52 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:56:52 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:56:52.398920) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:56:52 [jobscraper.pipelines] INFO: Created new job: 39
+2025-08-10 17:56:52 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:56:54 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:56:54 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:56:54.413135) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:56:54 [jobscraper.pipelines] INFO: Created new job: 40
+2025-08-10 17:56:54 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:56:56 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:56:56 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:56:56.338742) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:56:56 [jobscraper.pipelines] INFO: Created new job: 41
+2025-08-10 17:56:56 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:56:58 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:56:58 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:56:58.321855) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:56:58 [jobscraper.pipelines] INFO: Created new job: 42
+2025-08-10 17:56:58 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:57:00 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:57:00 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:57:00.329769) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:57:00 [jobscraper.pipelines] INFO: Created new job: 43
+2025-08-10 17:57:00 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:57:02 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:57:02 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:57:02.742497) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:57:02 [jobscraper.pipelines] INFO: Created new job: 44
+2025-08-10 17:57:02 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:57:10 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:57:10 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:57:10.361525) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:57:10 [jobscraper.pipelines] INFO: Created new job: 45
+2025-08-10 17:57:10 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:57:12 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:57:12 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:57:12.318852) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:57:12 [jobscraper.pipelines] INFO: Created new job: 46
+2025-08-10 17:57:12 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:57:14 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:57:14 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:57:14.336146) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:57:14 [jobscraper.pipelines] INFO: Created new job: 47
+2025-08-10 17:57:14 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:57:16 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:57:16 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:57:16.377422) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:57:16 [jobscraper.pipelines] INFO: Created new job: 48
+2025-08-10 17:57:16 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:57:18 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:57:18 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:57:18.344603) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:57:18 [jobscraper.pipelines] INFO: Created new job: 49
+2025-08-10 17:57:18 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:57:20 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:57:20 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:57:20.412906) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:57:20 [jobscraper.pipelines] INFO: Created new job: 50
+2025-08-10 17:57:20 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:57:22 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:57:22 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:57:22.425222) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:57:22 [jobscraper.pipelines] INFO: Created new job: 51
+2025-08-10 17:57:22 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:57:25 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:57:25 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:57:25.206717) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:57:25 [jobscraper.pipelines] INFO: Created new job: 52
+2025-08-10 17:57:25 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:57:26 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:57:26 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:57:26.412562) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:57:26 [jobscraper.pipelines] INFO: Created new job: 53
+2025-08-10 17:57:26 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:57:28 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:57:28 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:57:28.426690) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:57:28 [jobscraper.pipelines] INFO: Created new job: 54
+2025-08-10 17:57:28 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:57:30 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:57:30 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:57:30.330368) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:57:30 [jobscraper.pipelines] INFO: Created new job: 55
+2025-08-10 17:57:30 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:57:32 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:57:32 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:57:32.468319) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:57:32 [jobscraper.pipelines] INFO: Created new job: 56
+2025-08-10 17:57:32 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:57:34 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:57:34 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:57:34.484114) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:57:34 [jobscraper.pipelines] INFO: Created new job: 57
+2025-08-10 17:57:34 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:57:36 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:57:36 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:57:36.486482) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:57:36 [jobscraper.pipelines] INFO: Created new job: 58
+2025-08-10 17:57:36 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:57:38 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:57:38 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:57:38.741876) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:57:38 [jobscraper.pipelines] INFO: Created new job: 59
+2025-08-10 17:57:38 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:57:40 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:57:40 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:57:40.518177) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:57:40 [jobscraper.pipelines] INFO: Created new job: 60
+2025-08-10 17:57:40 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:57:42 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:57:42 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:57:42.393340) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:57:42 [jobscraper.pipelines] INFO: Created new job: 61
+2025-08-10 17:57:42 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:57:44 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:57:44 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:57:44.612046) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:57:44 [jobscraper.pipelines] INFO: Created new job: 62
+2025-08-10 17:57:44 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:57:46 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:57:46 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:57:46.380935) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:57:46 [jobscraper.pipelines] INFO: Created new job: 63
+2025-08-10 17:57:46 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:57:48 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:57:48 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:57:48.428825) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:57:48 [jobscraper.pipelines] INFO: Created new job: 64
+2025-08-10 17:57:48 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:57:50 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:57:50 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:57:50.495148) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:57:50 [jobscraper.pipelines] INFO: Created new job: 65
+2025-08-10 17:57:50 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:57:52 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:57:52 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:57:52.535583) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:57:52 [jobscraper.pipelines] INFO: Created new job: 66
+2025-08-10 17:57:52 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:57:54 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:57:54 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:57:54.550468) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:57:54 [jobscraper.pipelines] INFO: Created new job: 67
+2025-08-10 17:57:54 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:57:56 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:57:56 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:57:56.569553) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:57:56 [jobscraper.pipelines] INFO: Created new job: 68
+2025-08-10 17:57:56 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:58:00 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:58:00 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:58:00.399775) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:58:00 [jobscraper.pipelines] INFO: Created new job: 69
+2025-08-10 17:58:00 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:58:03 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:58:03 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:58:03.128682) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:58:03 [jobscraper.pipelines] INFO: Created new job: 70
+2025-08-10 17:58:03 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:58:05 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:58:05 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:58:05.927155) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:58:05 [jobscraper.pipelines] INFO: Created new job: 71
+2025-08-10 17:58:05 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:58:08 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:58:08 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:58:08.000910) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:58:08 [jobscraper.pipelines] INFO: Created new job: 72
+2025-08-10 17:58:08 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:58:09 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:58:09 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:58:09.716987) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:58:09 [jobscraper.pipelines] INFO: Created new job: 73
+2025-08-10 17:58:09 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:58:11 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:58:11 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:58:11.326265) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:58:11 [jobscraper.pipelines] INFO: Created new job: 74
+2025-08-10 17:58:11 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:58:13 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:58:13 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:58:13.386726) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:58:13 [jobscraper.pipelines] INFO: Created new job: 75
+2025-08-10 17:58:13 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:58:15 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:58:15 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:58:15.069736) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:58:15 [jobscraper.pipelines] INFO: Created new job: 76
+2025-08-10 17:58:15 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:58:17 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:58:17 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:58:17.013145) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:58:17 [jobscraper.pipelines] INFO: Created new job: 77
+2025-08-10 17:58:17 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:58:19 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:58:19 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:58:19.137753) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:58:19 [jobscraper.pipelines] INFO: Created new job: 78
+2025-08-10 17:58:19 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:58:20 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:58:20 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:58:20.926804) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:58:20 [jobscraper.pipelines] INFO: Created new job: 79
+2025-08-10 17:58:20 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:58:22 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:58:23 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:58:22.989490) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:58:23 [jobscraper.pipelines] INFO: Created new job: 80
+2025-08-10 17:58:23 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:58:24 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:58:24 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:58:24.841878) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:58:24 [jobscraper.pipelines] INFO: Created new job: 81
+2025-08-10 17:58:24 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:58:26 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:58:26 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:58:26.823512) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:58:26 [jobscraper.pipelines] INFO: Created new job: 82
+2025-08-10 17:58:26 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:58:28 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:58:28 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:58:28.894302) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:58:28 [jobscraper.pipelines] INFO: Created new job: 83
+2025-08-10 17:58:28 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:58:31 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:58:31 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:58:31.089292) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:58:31 [jobscraper.pipelines] INFO: Created new job: 84
+2025-08-10 17:58:31 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:58:32 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:58:32 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:58:32.895427) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:58:32 [jobscraper.pipelines] INFO: Created new job: 85
+2025-08-10 17:58:32 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:58:34 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:58:34 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:58:34.873232) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:58:34 [jobscraper.pipelines] INFO: Created new job: 86
+2025-08-10 17:58:34 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:58:36 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:58:36 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:58:36.943194) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:58:36 [jobscraper.pipelines] INFO: Created new job: 87
+2025-08-10 17:58:36 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:58:38 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:58:38 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:58:38.932637) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:58:38 [jobscraper.pipelines] INFO: Created new job: 88
+2025-08-10 17:58:38 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:58:40 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:58:40 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:58:40.888956) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:58:40 [jobscraper.pipelines] INFO: Created new job: 89
+2025-08-10 17:58:40 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:58:43 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:58:43 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:58:43.087115) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:58:43 [jobscraper.pipelines] INFO: Created new job: 90
+2025-08-10 17:58:43 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:58:44 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:58:44 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:58:44.880789) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:58:44 [jobscraper.pipelines] INFO: Created new job: 91
+2025-08-10 17:58:44 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:58:47 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:58:47 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:58:47.068179) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:58:47 [jobscraper.pipelines] INFO: Created new job: 92
+2025-08-10 17:58:47 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:58:48 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:58:48 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:58:48.902689) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:58:48 [jobscraper.pipelines] INFO: Created new job: 93
+2025-08-10 17:58:48 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:58:51 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:58:51 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:58:51.164308) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:58:51 [jobscraper.pipelines] INFO: Created new job: 94
+2025-08-10 17:58:51 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:58:53 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:58:53 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:58:53.243336) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:58:53 [jobscraper.pipelines] INFO: Created new job: 95
+2025-08-10 17:58:53 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:58:54 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:58:54 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:58:54.977322) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:58:55 [jobscraper.pipelines] INFO: Created new job: 96
+2025-08-10 17:58:55 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:58:56 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:58:56 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:58:56.948212) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:58:56 [jobscraper.pipelines] INFO: Created new job: 97
+2025-08-10 17:58:56 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:58:58 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:58:58 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:58:58.920972) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:58:58 [jobscraper.pipelines] INFO: Created new job: 98
+2025-08-10 17:58:58 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:59:01 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:59:01 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:59:01.158455) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:59:01 [jobscraper.pipelines] INFO: Created new job: 99
+2025-08-10 17:59:01 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:59:02 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:59:02 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:59:02.967508) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:59:03 [jobscraper.pipelines] INFO: Created new job: 100
+2025-08-10 17:59:03 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:59:05 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:59:05 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:59:05.698363) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:59:05 [jobscraper.pipelines] INFO: Created new job: 101
+2025-08-10 17:59:05 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:59:08 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:59:08 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:59:08.524535) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:59:08 [jobscraper.pipelines] INFO: Created new job: 102
+2025-08-10 17:59:08 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:59:09 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:59:09 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:59:09.412617) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:59:09 [jobscraper.pipelines] INFO: Created new job: 103
+2025-08-10 17:59:09 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:59:12 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:59:12 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:59:12.214574) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:59:12 [jobscraper.pipelines] INFO: Created new job: 104
+2025-08-10 17:59:12 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:59:18 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:59:18 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:59:18.395501) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:59:18 [jobscraper.pipelines] INFO: Created new job: 105
+2025-08-10 17:59:18 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:59:19 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:59:19 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:59:19.261081) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:59:19 [jobscraper.pipelines] INFO: Created new job: 106
+2025-08-10 17:59:19 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:59:22 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:59:22 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:59:22.294687) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:59:22 [jobscraper.pipelines] INFO: Created new job: 107
+2025-08-10 17:59:22 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:59:24 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:59:24 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:59:24.272646) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:59:24 [jobscraper.pipelines] INFO: Created new job: 108
+2025-08-10 17:59:24 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:59:26 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:59:26 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:59:26.206341) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:59:26 [jobscraper.pipelines] INFO: Created new job: 109
+2025-08-10 17:59:26 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:59:28 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:59:28 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:59:28.165842) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:59:28 [jobscraper.pipelines] INFO: Created new job: 110
+2025-08-10 17:59:28 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:59:31 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:59:31 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:59:31.332859) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:59:31 [jobscraper.pipelines] INFO: Created new job: 111
+2025-08-10 17:59:31 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:59:32 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:59:32 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:59:32.860821) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:59:32 [jobscraper.pipelines] INFO: Created new job: 112
+2025-08-10 17:59:32 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:59:35 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:59:35 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:59:35.009771) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:59:35 [jobscraper.pipelines] INFO: Created new job: 113
+2025-08-10 17:59:35 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:59:37 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:59:37 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:59:37.494428) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:59:37 [jobscraper.pipelines] INFO: Created new job: 114
+2025-08-10 17:59:37 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:59:39 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:59:39 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:59:39.505753) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:59:39 [jobscraper.pipelines] INFO: Created new job: 115
+2025-08-10 17:59:39 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:59:40 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:59:40 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:59:40.628302) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:59:40 [jobscraper.pipelines] INFO: Created new job: 116
+2025-08-10 17:59:40 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:59:42 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:59:42 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:59:42.891549) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:59:42 [jobscraper.pipelines] INFO: Created new job: 117
+2025-08-10 17:59:42 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:59:44 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:59:44 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:59:44.473902) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:59:44 [jobscraper.pipelines] INFO: Created new job: 118
+2025-08-10 17:59:44 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:59:46 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:59:46 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:59:46.500871) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:59:46 [jobscraper.pipelines] INFO: Created new job: 119
+2025-08-10 17:59:46 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:59:48 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:59:48 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:59:48.378555) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:59:48 [jobscraper.pipelines] INFO: Created new job: 120
+2025-08-10 17:59:48 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:59:50 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:59:50 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:59:50.417210) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:59:50 [jobscraper.pipelines] INFO: Created new job: 121
+2025-08-10 17:59:50 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:59:54 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:59:54 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:59:54.194284) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:59:54 [jobscraper.pipelines] INFO: Created new job: 122
+2025-08-10 17:59:54 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:59:55 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:59:55 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:59:55.004863) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:59:55 [jobscraper.pipelines] INFO: Created new job: 123
+2025-08-10 17:59:55 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:59:58 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:59:58 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:59:58.421046) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:59:58 [jobscraper.pipelines] INFO: Created new job: 124
+2025-08-10 17:59:58 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 17:59:59 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 17:59:59 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 17:59:59.270252) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 17:59:59 [jobscraper.pipelines] INFO: Created new job: 125
+2025-08-10 17:59:59 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 18:00:01 [weworkremotely] INFO: Scraped job: Unknown Title at Unknown Company
+2025-08-10 18:00:01 [py.warnings] WARNING: C:\Users\ASUS\Development\Python_Projects\jobtracker-pro\venv\Lib\site-packages\django\db\models\fields\__init__.py:1671: RuntimeWarning: DateTimeField Job.posted_date received a naive datetime (2025-08-10 18:00:01.312717) while time zone support is active.
+  warnings.warn(
+
+2025-08-10 18:00:01 [jobscraper.pipelines] INFO: Created new job: 126
+2025-08-10 18:00:01 [jobscraper.pipelines] INFO: Successfully processed job: Unknown Title at Unknown Company
+2025-08-10 18:07:13 [weworkremotely] INFO: Scraped job: Senior Independent Software Developer ($90-$170/hr) at A.Team
+2025-08-10 18:07:13 [jobscraper.pipelines] INFO: Created new company: A.Team
+2025-08-10 18:07:13 [jobscraper.pipelines] INFO: Updated existing job: 26
+2025-08-10 18:07:13 [jobscraper.pipelines] INFO: Successfully processed job: Senior Independent Software Developer ($90-$170/hr) at A.Team
+2025-08-10 18:07:15 [weworkremotely] INFO: Scraped job: Business Technology Consultant at Swans
+2025-08-10 18:07:15 [jobscraper.pipelines] INFO: Created new company: Swans
+2025-08-10 18:07:15 [jobscraper.pipelines] INFO: Updated existing job: 27
+2025-08-10 18:07:15 [jobscraper.pipelines] INFO: Successfully processed job: Business Technology Consultant at Swans
+2025-08-10 18:07:17 [weworkremotely] INFO: Scraped job: Remote Senior Site Reliability Engineer at BaxEnergy
+2025-08-10 18:07:17 [jobscraper.pipelines] INFO: Created new company: BaxEnergy
+2025-08-10 18:07:17 [jobscraper.pipelines] INFO: Updated existing job: 28
+2025-08-10 18:07:17 [jobscraper.pipelines] INFO: Successfully processed job: Remote Senior Site Reliability Engineer at BaxEnergy
+2025-08-10 18:07:19 [weworkremotely] INFO: Scraped job: Project coordinator at Sana Vita Operations LLC
+2025-08-10 18:07:19 [jobscraper.pipelines] INFO: Created new company: Sana Vita Operations LLC
+2025-08-10 18:07:19 [jobscraper.pipelines] INFO: Updated existing job: 29
+2025-08-10 18:07:19 [jobscraper.pipelines] INFO: Successfully processed job: Project coordinator at Sana Vita Operations LLC
+2025-08-10 18:07:21 [weworkremotely] INFO: Scraped job: Remote Head of Operations at Solé Bicycles
+2025-08-10 18:07:21 [jobscraper.pipelines] INFO: Created new company: Solé Bicycles
+2025-08-10 18:07:21 [jobscraper.pipelines] INFO: Updated existing job: 30
+2025-08-10 18:07:21 [jobscraper.pipelines] INFO: Successfully processed job: Remote Head of Operations at Solé Bicycles
+2025-08-10 18:07:23 [weworkremotely] INFO: Scraped job: Leading Digital Change at Intellisync SRL
+2025-08-10 18:07:23 [jobscraper.pipelines] INFO: Created new company: Intellisync SRL
+2025-08-10 18:07:23 [jobscraper.pipelines] INFO: Updated existing job: 31
+2025-08-10 18:07:23 [jobscraper.pipelines] INFO: Successfully processed job: Leading Digital Change at Intellisync SRL
+2025-08-10 18:07:25 [weworkremotely] INFO: Scraped job: Remote Senior Web Engineer at Young Americans for Liberty
+2025-08-10 18:07:25 [jobscraper.pipelines] INFO: Created new company: Young Americans for Liberty
+2025-08-10 18:07:25 [jobscraper.pipelines] INFO: Updated existing job: 32
+2025-08-10 18:07:25 [jobscraper.pipelines] INFO: Successfully processed job: Remote Senior Web Engineer at Young Americans for Liberty
+2025-08-10 18:07:27 [weworkremotely] INFO: Scraped job: Remote Senior Software Engineer at Vested, Inc.
+2025-08-10 18:07:27 [jobscraper.pipelines] INFO: Created new company: Vested, Inc.
+2025-08-10 18:07:27 [jobscraper.pipelines] INFO: Updated existing job: 33
+2025-08-10 18:07:27 [jobscraper.pipelines] INFO: Successfully processed job: Remote Senior Software Engineer at Vested, Inc.
+2025-08-10 18:07:29 [weworkremotely] INFO: Scraped job: Senior Shopify Developer (Remote + Flexible) at Storetasker
+2025-08-10 18:07:29 [jobscraper.pipelines] INFO: Created new company: Storetasker
+2025-08-10 18:07:29 [jobscraper.pipelines] INFO: Updated existing job: 34
+2025-08-10 18:07:29 [jobscraper.pipelines] INFO: Successfully processed job: Senior Shopify Developer (Remote + Flexible) at Storetasker
+2025-08-10 18:07:31 [weworkremotely] INFO: Scraped job: Remote React/Node Fullstack Developer at CloudDevs
+2025-08-10 18:07:31 [jobscraper.pipelines] INFO: Created new company: CloudDevs
+2025-08-10 18:07:31 [jobscraper.pipelines] INFO: Updated existing job: 35
+2025-08-10 18:07:31 [jobscraper.pipelines] INFO: Successfully processed job: Remote React/Node Fullstack Developer at CloudDevs
+2025-08-10 18:07:33 [weworkremotely] INFO: Scraped job: Remote Software engineer at Sticker Mule
+2025-08-10 18:07:33 [jobscraper.pipelines] INFO: Created new company: Sticker Mule
+2025-08-10 18:07:33 [jobscraper.pipelines] INFO: Updated existing job: 36
+2025-08-10 18:07:33 [jobscraper.pipelines] INFO: Successfully processed job: Remote Software engineer at Sticker Mule
+2025-08-10 18:07:35 [weworkremotely] INFO: Scraped job: Remote Senior TypeScript SDK Engineer at Nutrient
+2025-08-10 18:07:35 [jobscraper.pipelines] INFO: Created new company: Nutrient
+2025-08-10 18:07:35 [jobscraper.pipelines] INFO: Updated existing job: 37
+2025-08-10 18:07:35 [jobscraper.pipelines] INFO: Successfully processed job: Remote Senior TypeScript SDK Engineer at Nutrient
+2025-08-10 18:07:37 [weworkremotely] INFO: Scraped job: Remote Sr. Full Stack Developer at P3 Digital LLC
+2025-08-10 18:07:37 [jobscraper.pipelines] INFO: Created new company: P3 Digital LLC
+2025-08-10 18:07:37 [jobscraper.pipelines] INFO: Updated existing job: 38
+2025-08-10 18:07:37 [jobscraper.pipelines] INFO: Successfully processed job: Remote Sr. Full Stack Developer at P3 Digital LLC
+2025-08-10 18:07:39 [weworkremotely] INFO: Scraped job: Remote Ruby on Rails Developer at OnTheGoSystems
+2025-08-10 18:07:39 [jobscraper.pipelines] INFO: Created new company: OnTheGoSystems
+2025-08-10 18:07:39 [jobscraper.pipelines] INFO: Updated existing job: 39
+2025-08-10 18:07:39 [jobscraper.pipelines] INFO: Successfully processed job: Remote Ruby on Rails Developer at OnTheGoSystems
+2025-08-10 18:07:41 [weworkremotely] INFO: Scraped job: Remote Lead Security Engineer at Jump
+2025-08-10 18:07:41 [jobscraper.pipelines] INFO: Created new company: Jump
+2025-08-10 18:07:41 [jobscraper.pipelines] INFO: Updated existing job: 40
+2025-08-10 18:07:41 [jobscraper.pipelines] INFO: Successfully processed job: Remote Lead Security Engineer at Jump
+2025-08-10 18:07:43 [weworkremotely] INFO: Scraped job: Remote Senior Full-stack Developer at Lemon.io
+2025-08-10 18:07:43 [jobscraper.pipelines] INFO: Created new company: Lemon.io
+2025-08-10 18:07:43 [jobscraper.pipelines] INFO: Updated existing job: 41
+2025-08-10 18:07:43 [jobscraper.pipelines] INFO: Successfully processed job: Remote Senior Full-stack Developer at Lemon.io
+2025-08-10 18:07:45 [weworkremotely] INFO: Scraped job: Remote PHP Full-Stack Developer at OnTheGoSystems
+2025-08-10 18:07:45 [jobscraper.pipelines] INFO: Updated existing job: 42
+2025-08-10 18:07:45 [jobscraper.pipelines] INFO: Successfully processed job: Remote PHP Full-Stack Developer at OnTheGoSystems
+2025-08-10 18:07:47 [weworkremotely] INFO: Scraped job: Remote Senior Full-Stack Engineer at Uncap
+2025-08-10 18:07:47 [jobscraper.pipelines] INFO: Created new company: Uncap
+2025-08-10 18:07:47 [jobscraper.pipelines] INFO: Updated existing job: 43
+2025-08-10 18:07:47 [jobscraper.pipelines] INFO: Successfully processed job: Remote Senior Full-Stack Engineer at Uncap
+2025-08-10 18:07:49 [weworkremotely] INFO: Scraped job: Remote Senior Fullstack Developer at Zencastr
+2025-08-10 18:07:49 [jobscraper.pipelines] INFO: Created new company: Zencastr
+2025-08-10 18:07:49 [jobscraper.pipelines] INFO: Updated existing job: 44
+2025-08-10 18:07:49 [jobscraper.pipelines] INFO: Successfully processed job: Remote Senior Fullstack Developer at Zencastr
+2025-08-10 18:07:57 [weworkremotely] INFO: Scraped job: Remote Mediengestalter:in Packaging at Extra & Bold Design GmbH
+2025-08-10 18:07:57 [jobscraper.pipelines] INFO: Created new company: Extra & Bold Design GmbH
+2025-08-10 18:07:57 [jobscraper.pipelines] INFO: Updated existing job: 45
+2025-08-10 18:07:57 [jobscraper.pipelines] INFO: Successfully processed job: Remote Mediengestalter:in Packaging at Extra & Bold Design GmbH
+2025-08-10 18:07:59 [weworkremotely] INFO: Scraped job: Senior Independent Product Manager/Product Designer ($90-$170/hr) at A.Team
+2025-08-10 18:07:59 [jobscraper.pipelines] INFO: Updated existing job: 46
+2025-08-10 18:07:59 [jobscraper.pipelines] INFO: Successfully processed job: Senior Independent Product Manager/Product Designer ($90-$170/hr) at A.Team
+2025-08-10 18:08:01 [weworkremotely] INFO: Scraped job: Remote Chief Product Officer at Waifu Masters
+2025-08-10 18:08:01 [jobscraper.pipelines] INFO: Created new company: Waifu Masters
+2025-08-10 18:08:01 [jobscraper.pipelines] INFO: Updated existing job: 47
+2025-08-10 18:08:01 [jobscraper.pipelines] INFO: Successfully processed job: Remote Chief Product Officer at Waifu Masters
+2025-08-10 18:08:03 [weworkremotely] INFO: Scraped job: Remote Product Owner at Localize
+2025-08-10 18:08:03 [jobscraper.pipelines] INFO: Created new company: Localize
+2025-08-10 18:08:03 [jobscraper.pipelines] INFO: Updated existing job: 48
+2025-08-10 18:08:03 [jobscraper.pipelines] INFO: Successfully processed job: Remote Product Owner at Localize
+2025-08-10 18:08:06 [weworkremotely] INFO: Scraped job: Leading Digital Change at Intellisync SRL
+2025-08-10 18:08:06 [jobscraper.pipelines] INFO: Updated existing job: 49
+2025-08-10 18:08:06 [jobscraper.pipelines] INFO: Successfully processed job: Leading Digital Change at Intellisync SRL
+2025-08-10 18:08:07 [weworkremotely] INFO: Scraped job: Remote Product Manager (m/f/d) (Remote – CET ±4h) at SocialHub
+2025-08-10 18:08:07 [jobscraper.pipelines] INFO: Created new company: SocialHub
+2025-08-10 18:08:07 [jobscraper.pipelines] INFO: Updated existing job: 50
+2025-08-10 18:08:07 [jobscraper.pipelines] INFO: Successfully processed job: Remote Product Manager (m/f/d) (Remote – CET ±4h) at SocialHub
+2025-08-10 18:08:10 [weworkremotely] INFO: Scraped job: Remote Chief Product Officer at Toggl
+2025-08-10 18:08:10 [jobscraper.pipelines] INFO: Created new company: Toggl
+2025-08-10 18:08:10 [jobscraper.pipelines] INFO: Updated existing job: 51
+2025-08-10 18:08:10 [jobscraper.pipelines] INFO: Successfully processed job: Remote Chief Product Officer at Toggl
+2025-08-10 18:08:11 [weworkremotely] INFO: Scraped job: Remote Senior Product Manager (Monetization) at Toggl
+2025-08-10 18:08:11 [jobscraper.pipelines] INFO: Updated existing job: 52
+2025-08-10 18:08:11 [jobscraper.pipelines] INFO: Successfully processed job: Remote Senior Product Manager (Monetization) at Toggl
+2025-08-10 18:08:13 [weworkremotely] INFO: Scraped job: Remote Executive Assistant To The CEO at QuietLab
+2025-08-10 18:08:13 [jobscraper.pipelines] INFO: Created new company: QuietLab
+2025-08-10 18:08:13 [jobscraper.pipelines] INFO: Updated existing job: 53
+2025-08-10 18:08:13 [jobscraper.pipelines] INFO: Successfully processed job: Remote Executive Assistant To The CEO at QuietLab
+2025-08-10 18:08:15 [weworkremotely] INFO: Scraped job: Remote Executive Assistant at Big Bear Vacations
+2025-08-10 18:08:15 [jobscraper.pipelines] INFO: Created new company: Big Bear Vacations
+2025-08-10 18:08:15 [jobscraper.pipelines] INFO: Updated existing job: 54
+2025-08-10 18:08:15 [jobscraper.pipelines] INFO: Successfully processed job: Remote Executive Assistant at Big Bear Vacations
+2025-08-10 18:08:17 [weworkremotely] INFO: Scraped job: Marketing Automation SaaS + Services Line of Business Owner at New Law Business Model
+2025-08-10 18:08:17 [jobscraper.pipelines] INFO: Created new company: New Law Business Model
+2025-08-10 18:08:17 [jobscraper.pipelines] INFO: Updated existing job: 55
+2025-08-10 18:08:17 [jobscraper.pipelines] INFO: Successfully processed job: Marketing Automation SaaS + Services Line of Business Owner at New Law Business Model
+2025-08-10 18:08:19 [weworkremotely] INFO: Scraped job: Remote CEO Assistant / Accounting / Online Project Management (Remote/Homeoffice) 20h/week at Bananasoft Media Ltd
+2025-08-10 18:08:19 [jobscraper.pipelines] INFO: Created new company: Bananasoft Media Ltd
+2025-08-10 18:08:19 [jobscraper.pipelines] INFO: Updated existing job: 56
+2025-08-10 18:08:19 [jobscraper.pipelines] INFO: Successfully processed job: Remote CEO Assistant / Accounting / Online Project Management (Remote/Homeoffice) 20h/week at Bananasoft Media Ltd
+2025-08-10 18:08:21 [weworkremotely] INFO: Scraped job: Remote Stock & Option Trader at Maverick Trading at Maverick Trading
+2025-08-10 18:08:21 [jobscraper.pipelines] INFO: Created new company: Maverick Trading at Maverick Trading
+2025-08-10 18:08:21 [jobscraper.pipelines] INFO: Updated existing job: 57
+2025-08-10 18:08:21 [jobscraper.pipelines] INFO: Successfully processed job: Remote Stock & Option Trader at Maverick Trading at Maverick Trading
+2025-08-10 18:08:23 [weworkremotely] INFO: Scraped job: Remote Entrepreneur in Residence at soonami.io GmbH
+2025-08-10 18:08:23 [jobscraper.pipelines] INFO: Created new company: soonami.io GmbH
+2025-08-10 18:08:23 [jobscraper.pipelines] INFO: Updated existing job: 58
+2025-08-10 18:08:23 [jobscraper.pipelines] INFO: Successfully processed job: Remote Entrepreneur in Residence at soonami.io GmbH
+2025-08-10 18:08:25 [weworkremotely] INFO: Scraped job: Remote Software Engineer, iOS Core Product at Speechify Inc
+2025-08-10 18:08:25 [jobscraper.pipelines] INFO: Created new company: Speechify Inc
+2025-08-10 18:08:25 [jobscraper.pipelines] INFO: Updated existing job: 59
+2025-08-10 18:08:25 [jobscraper.pipelines] INFO: Successfully processed job: Remote Software Engineer, iOS Core Product at Speechify Inc
+2025-08-10 18:08:27 [weworkremotely] INFO: Scraped job: Remote Tech Lead, Web Core Product & Chrome Extension at Speechify Inc
+2025-08-10 18:08:27 [jobscraper.pipelines] INFO: Updated existing job: 60
+2025-08-10 18:08:27 [jobscraper.pipelines] INFO: Successfully processed job: Remote Tech Lead, Web Core Product & Chrome Extension at Speechify Inc
+2025-08-10 18:08:29 [weworkremotely] INFO: Scraped job: Remote EU-Freelancer (m/w/d) im Inbound Kundenservice - Home-Office! at hey contact heroes GmbH
+2025-08-10 18:08:29 [jobscraper.pipelines] INFO: Created new company: hey contact heroes GmbH
+2025-08-10 18:08:29 [jobscraper.pipelines] INFO: Updated existing job: 61
+2025-08-10 18:08:29 [jobscraper.pipelines] INFO: Successfully processed job: Remote EU-Freelancer (m/w/d) im Inbound Kundenservice - Home-Office! at hey contact heroes GmbH
+2025-08-10 18:08:31 [weworkremotely] INFO: Scraped job: Contact Centre Agent (Remote) at Goodlord
+2025-08-10 18:08:31 [jobscraper.pipelines] INFO: Created new company: Goodlord
+2025-08-10 18:08:31 [jobscraper.pipelines] INFO: Updated existing job: 62
+2025-08-10 18:08:31 [jobscraper.pipelines] INFO: Successfully processed job: Contact Centre Agent (Remote) at Goodlord
+2025-08-10 18:08:33 [weworkremotely] INFO: Scraped job: HubSpot to Microsoft Dynamics CRM Migration at The Techgalore
+2025-08-10 18:08:33 [jobscraper.pipelines] INFO: Created new company: The Techgalore
+2025-08-10 18:08:33 [jobscraper.pipelines] INFO: Updated existing job: 63
+2025-08-10 18:08:33 [jobscraper.pipelines] INFO: Successfully processed job: HubSpot to Microsoft Dynamics CRM Migration at The Techgalore
+2025-08-10 18:08:35 [weworkremotely] INFO: Scraped job: Regional Sales Manager, France at Panaya
+2025-08-10 18:08:35 [jobscraper.pipelines] INFO: Created new company: Panaya
+2025-08-10 18:08:35 [jobscraper.pipelines] INFO: Updated existing job: 64
+2025-08-10 18:08:35 [jobscraper.pipelines] INFO: Successfully processed job: Regional Sales Manager, France at Panaya
+2025-08-10 18:08:37 [weworkremotely] INFO: Scraped job: Remote CRM and Email Marketing Manager at Ingenius Prep
+2025-08-10 18:08:37 [jobscraper.pipelines] INFO: Created new company: Ingenius Prep
+2025-08-10 18:08:37 [jobscraper.pipelines] INFO: Updated existing job: 65
+2025-08-10 18:08:37 [jobscraper.pipelines] INFO: Successfully processed job: Remote CRM and Email Marketing Manager at Ingenius Prep
+2025-08-10 18:08:39 [weworkremotely] INFO: Scraped job: Embedded C++ Engineer at abra
+2025-08-10 18:08:39 [jobscraper.pipelines] INFO: Created new company: abra
+2025-08-10 18:08:39 [jobscraper.pipelines] INFO: Updated existing job: 66
+2025-08-10 18:08:39 [jobscraper.pipelines] INFO: Successfully processed job: Embedded C++ Engineer at abra
+2025-08-10 18:08:41 [weworkremotely] INFO: Scraped job: CRM Field Inventory Analyst - Birmingham, AL at Medtronic
+2025-08-10 18:08:41 [jobscraper.pipelines] INFO: Created new company: Medtronic
+2025-08-10 18:08:41 [jobscraper.pipelines] INFO: Updated existing job: 67
+2025-08-10 18:08:41 [jobscraper.pipelines] INFO: Successfully processed job: CRM Field Inventory Analyst - Birmingham, AL at Medtronic
+2025-08-10 18:08:43 [weworkremotely] INFO: Scraped job: Senior Director, CRM &amp; Lifecycle Marketing at Upside
+2025-08-10 18:08:43 [jobscraper.pipelines] INFO: Created new company: Upside
+2025-08-10 18:08:43 [jobscraper.pipelines] INFO: Updated existing job: 68
+2025-08-10 18:08:43 [jobscraper.pipelines] INFO: Successfully processed job: Senior Director, CRM &amp; Lifecycle Marketing at Upside
+2025-08-10 18:08:46 [weworkremotely] INFO: Scraped job: Technical Consultant - X-Pages at Veeva Systems
+2025-08-10 18:08:46 [jobscraper.pipelines] INFO: Created new company: Veeva Systems
+2025-08-10 18:08:46 [jobscraper.pipelines] INFO: Updated existing job: 69
+2025-08-10 18:08:46 [jobscraper.pipelines] INFO: Successfully processed job: Technical Consultant - X-Pages at Veeva Systems
+2025-08-10 18:08:47 [weworkremotely] INFO: Scraped job: Veeva CRM Consultant at Sansar Tec
+2025-08-10 18:08:47 [jobscraper.pipelines] INFO: Created new company: Sansar Tec
+2025-08-10 18:08:47 [jobscraper.pipelines] INFO: Updated existing job: 70
+2025-08-10 18:08:47 [jobscraper.pipelines] INFO: Successfully processed job: Veeva CRM Consultant at Sansar Tec
+2025-08-10 18:08:49 [weworkremotely] INFO: Scraped job: Remote Customer Onboarding Specialist for Company Incorporations (Full Time) at Flag Theory
+2025-08-10 18:08:49 [jobscraper.pipelines] INFO: Created new company: Flag Theory
+2025-08-10 18:08:49 [jobscraper.pipelines] INFO: Updated existing job: 71
+2025-08-10 18:08:49 [jobscraper.pipelines] INFO: Successfully processed job: Remote Customer Onboarding Specialist for Company Incorporations (Full Time) at Flag Theory
+2025-08-10 18:08:51 [weworkremotely] INFO: Scraped job: Remote Customer Service Rep Up to 19/hour - No Degree Needed at NoGigiddy
+2025-08-10 18:08:51 [jobscraper.pipelines] INFO: Created new company: NoGigiddy
+2025-08-10 18:08:51 [jobscraper.pipelines] INFO: Updated existing job: 72
+2025-08-10 18:08:51 [jobscraper.pipelines] INFO: Successfully processed job: Remote Customer Service Rep Up to 19/hour - No Degree Needed at NoGigiddy
+2025-08-10 18:08:53 [weworkremotely] INFO: Scraped job: Remote Product specialist Jedi (German-speaking) at Creative Force
+2025-08-10 18:08:53 [jobscraper.pipelines] INFO: Created new company: Creative Force
+2025-08-10 18:08:53 [jobscraper.pipelines] INFO: Updated existing job: 73
+2025-08-10 18:08:53 [jobscraper.pipelines] INFO: Successfully processed job: Remote Product specialist Jedi (German-speaking) at Creative Force
+2025-08-10 18:08:55 [weworkremotely] INFO: Scraped job: Remote Onboarding Specialist | Client orientation through video-calls at Brook Hiddink - Highticket.io
+2025-08-10 18:08:55 [jobscraper.pipelines] INFO: Created new company: Brook Hiddink - Highticket.io
+2025-08-10 18:08:55 [jobscraper.pipelines] INFO: Updated existing job: 74
+2025-08-10 18:08:55 [jobscraper.pipelines] INFO: Successfully processed job: Remote Onboarding Specialist | Client orientation through video-calls at Brook Hiddink - Highticket.io
+2025-08-10 18:08:57 [weworkremotely] INFO: Scraped job: Remote Client Support Specialist (Healthcare Facilities - B2B) at Clipboard Health
+2025-08-10 18:08:57 [jobscraper.pipelines] INFO: Created new company: Clipboard Health
+2025-08-10 18:08:57 [jobscraper.pipelines] INFO: Updated existing job: 75
+2025-08-10 18:08:57 [jobscraper.pipelines] INFO: Successfully processed job: Remote Client Support Specialist (Healthcare Facilities - B2B) at Clipboard Health
+2025-08-10 18:08:59 [weworkremotely] INFO: Scraped job: Remote Customer Success Manager at BrandChamp at BrandChamp
+2025-08-10 18:08:59 [jobscraper.pipelines] INFO: Created new company: BrandChamp at BrandChamp
+2025-08-10 18:08:59 [jobscraper.pipelines] INFO: Updated existing job: 76
+2025-08-10 18:08:59 [jobscraper.pipelines] INFO: Successfully processed job: Remote Customer Success Manager at BrandChamp at BrandChamp
+2025-08-10 18:09:01 [weworkremotely] INFO: Scraped job: Remote Customer Engagement Expert at ActivEngage
+2025-08-10 18:09:01 [jobscraper.pipelines] INFO: Created new company: ActivEngage
+2025-08-10 18:09:01 [jobscraper.pipelines] INFO: Updated existing job: 77
+2025-08-10 18:09:01 [jobscraper.pipelines] INFO: Successfully processed job: Remote Customer Engagement Expert at ActivEngage
+2025-08-10 18:09:03 [weworkremotely] INFO: Scraped job: Remote Live Technical Support Representative — full time, requires weekend (Sat + Sun) — $40,000 / year + benefits (Locations: California, Idaho, Oregon, Texas, or Washington) at Porkbun
+2025-08-10 18:09:03 [jobscraper.pipelines] INFO: Created new company: Porkbun
+2025-08-10 18:09:03 [jobscraper.pipelines] INFO: Updated existing job: 78
+2025-08-10 18:09:03 [jobscraper.pipelines] INFO: Successfully processed job: Remote Live Technical Support Representative — full time, requires weekend (Sat + Sun) — $40,000 / year + benefits (Locations: California, Idaho, Oregon, Texas, or Washington) at Porkbun
+2025-08-10 18:09:06 [weworkremotely] INFO: Scraped job: Remote Dutch Speaking - Customer Service Agent at Red Frog Recruitment LDA
+2025-08-10 18:09:06 [jobscraper.pipelines] INFO: Created new company: Red Frog Recruitment LDA
+2025-08-10 18:09:06 [jobscraper.pipelines] INFO: Updated existing job: 79
+2025-08-10 18:09:06 [jobscraper.pipelines] INFO: Successfully processed job: Remote Dutch Speaking - Customer Service Agent at Red Frog Recruitment LDA
+2025-08-10 18:09:07 [weworkremotely] INFO: Scraped job: Remote Cold Caller - Work from Home - Worldwide at Unload My Home
+2025-08-10 18:09:07 [jobscraper.pipelines] INFO: Created new company: Unload My Home
+2025-08-10 18:09:07 [jobscraper.pipelines] INFO: Updated existing job: 80
+2025-08-10 18:09:07 [jobscraper.pipelines] INFO: Successfully processed job: Remote Cold Caller - Work from Home - Worldwide at Unload My Home
+2025-08-10 18:09:09 [weworkremotely] INFO: Scraped job: Languages teachers at AE Virtual Class S.A
+2025-08-10 18:09:09 [jobscraper.pipelines] INFO: Created new company: AE Virtual Class S.A
+2025-08-10 18:09:09 [jobscraper.pipelines] INFO: Updated existing job: 81
+2025-08-10 18:09:09 [jobscraper.pipelines] INFO: Successfully processed job: Languages teachers at AE Virtual Class S.A
+2025-08-10 18:09:11 [weworkremotely] INFO: Scraped job: Remote Procurement Analyst at Paymentology
+2025-08-10 18:09:11 [jobscraper.pipelines] INFO: Created new company: Paymentology
+2025-08-10 18:09:11 [jobscraper.pipelines] INFO: Updated existing job: 82
+2025-08-10 18:09:11 [jobscraper.pipelines] INFO: Successfully processed job: Remote Procurement Analyst at Paymentology
+2025-08-10 18:09:15 [weworkremotely] INFO: Scraped job: Remote Student Representatives at EDUopinions
+2025-08-10 18:09:15 [jobscraper.pipelines] INFO: Created new company: EDUopinions
+2025-08-10 18:09:15 [jobscraper.pipelines] INFO: Updated existing job: 83
+2025-08-10 18:09:15 [jobscraper.pipelines] INFO: Successfully processed job: Remote Student Representatives at EDUopinions
+2025-08-10 18:09:16 [weworkremotely] INFO: Scraped job: Remote Rea Time Analyst | Workforce Management at Clipboard Health
+2025-08-10 18:09:16 [jobscraper.pipelines] INFO: Updated existing job: 84
+2025-08-10 18:09:16 [jobscraper.pipelines] INFO: Successfully processed job: Remote Rea Time Analyst | Workforce Management at Clipboard Health
+2025-08-10 18:09:17 [weworkremotely] INFO: Scraped job: Freelance Writer at ProWriterSites
+2025-08-10 18:09:18 [jobscraper.pipelines] INFO: Created new company: ProWriterSites
+2025-08-10 18:09:18 [jobscraper.pipelines] INFO: Updated existing job: 85
+2025-08-10 18:09:18 [jobscraper.pipelines] INFO: Successfully processed job: Freelance Writer at ProWriterSites
+2025-08-10 18:09:19 [weworkremotely] INFO: Scraped job: Remote Maintenance Dispatcher for Property Management Company at Real Property Management Sunstate
+2025-08-10 18:09:20 [jobscraper.pipelines] INFO: Created new company: Real Property Management Sunstate
+2025-08-10 18:09:20 [jobscraper.pipelines] INFO: Updated existing job: 86
+2025-08-10 18:09:20 [jobscraper.pipelines] INFO: Successfully processed job: Remote Maintenance Dispatcher for Property Management Company at Real Property Management Sunstate
+2025-08-10 18:09:22 [weworkremotely] INFO: Scraped job: Remote Developer Education Specialist at Class Central
+2025-08-10 18:09:22 [jobscraper.pipelines] INFO: Created new company: Class Central
+2025-08-10 18:09:22 [jobscraper.pipelines] INFO: Updated existing job: 87
+2025-08-10 18:09:22 [jobscraper.pipelines] INFO: Successfully processed job: Remote Developer Education Specialist at Class Central
+2025-08-10 18:09:24 [weworkremotely] INFO: Scraped job: Remote Talent Acquisition Specialist at Toggl
+2025-08-10 18:09:24 [jobscraper.pipelines] INFO: Updated existing job: 88
+2025-08-10 18:09:24 [jobscraper.pipelines] INFO: Successfully processed job: Remote Talent Acquisition Specialist at Toggl
+2025-08-10 18:09:26 [weworkremotely] INFO: Scraped job: Remote Strategic Advisor at NewtonX
+2025-08-10 18:09:26 [jobscraper.pipelines] INFO: Created new company: NewtonX
+2025-08-10 18:09:26 [jobscraper.pipelines] INFO: Updated existing job: 89
+2025-08-10 18:09:26 [jobscraper.pipelines] INFO: Successfully processed job: Remote Strategic Advisor at NewtonX
+2025-08-10 18:09:28 [weworkremotely] INFO: Scraped job: Remote Senior Engineer with Work-Life Balance (TypeScript, Node.js, React) at Spidergap
+2025-08-10 18:09:28 [jobscraper.pipelines] INFO: Created new company: Spidergap
+2025-08-10 18:09:28 [jobscraper.pipelines] INFO: Updated existing job: 90
+2025-08-10 18:09:28 [jobscraper.pipelines] INFO: Successfully processed job: Remote Senior Engineer with Work-Life Balance (TypeScript, Node.js, React) at Spidergap
+2025-08-10 18:09:30 [weworkremotely] INFO: Scraped job: Online English Teacher at Native Camp
+2025-08-10 18:09:30 [jobscraper.pipelines] INFO: Created new company: Native Camp
+2025-08-10 18:09:30 [jobscraper.pipelines] INFO: Updated existing job: 91
+2025-08-10 18:09:30 [jobscraper.pipelines] INFO: Successfully processed job: Online English Teacher at Native Camp
+2025-08-10 18:09:32 [weworkremotely] INFO: Scraped job: Remote Senior Machine Learning Engineer at Zencastr
+2025-08-10 18:09:32 [jobscraper.pipelines] INFO: Updated existing job: 92
+2025-08-10 18:09:32 [jobscraper.pipelines] INFO: Successfully processed job: Remote Senior Machine Learning Engineer at Zencastr
+2025-08-10 18:09:34 [weworkremotely] INFO: Scraped job: Remote Software Engineer, Platform at Speechify Inc
+2025-08-10 18:09:34 [jobscraper.pipelines] INFO: Updated existing job: 93
+2025-08-10 18:09:34 [jobscraper.pipelines] INFO: Successfully processed job: Remote Software Engineer, Platform at Speechify Inc
+2025-08-10 18:09:35 [weworkremotely] INFO: Scraped job: FT/PT Remote AI Prompt Engineering &amp; Evaluation - Will Train at DataAnnotation.tech
+2025-08-10 18:09:35 [jobscraper.pipelines] INFO: Created new company: DataAnnotation.tech
+2025-08-10 18:09:36 [jobscraper.pipelines] INFO: Updated existing job: 94
+2025-08-10 18:09:36 [jobscraper.pipelines] INFO: Successfully processed job: FT/PT Remote AI Prompt Engineering &amp; Evaluation - Will Train at DataAnnotation.tech
+2025-08-10 18:09:38 [weworkremotely] INFO: Scraped job: Remote Lead Manager / Appointment Setter – Real Estate Investment (Remote) at The House Team Inc
+2025-08-10 18:09:38 [jobscraper.pipelines] INFO: Created new company: The House Team Inc
+2025-08-10 18:09:38 [jobscraper.pipelines] INFO: Updated existing job: 95
+2025-08-10 18:09:38 [jobscraper.pipelines] INFO: Successfully processed job: Remote Lead Manager / Appointment Setter – Real Estate Investment (Remote) at The House Team Inc
+2025-08-10 18:09:40 [weworkremotely] INFO: Scraped job: Remote Marketing Analyst at Kake
+2025-08-10 18:09:40 [jobscraper.pipelines] INFO: Created new company: Kake
+2025-08-10 18:09:40 [jobscraper.pipelines] INFO: Updated existing job: 96
+2025-08-10 18:09:40 [jobscraper.pipelines] INFO: Successfully processed job: Remote Marketing Analyst at Kake
+2025-08-10 18:09:42 [weworkremotely] INFO: Scraped job: Remote Content Creators for Viral Video Project at Contra
+2025-08-10 18:09:42 [jobscraper.pipelines] INFO: Created new company: Contra
+2025-08-10 18:09:42 [jobscraper.pipelines] INFO: Updated existing job: 97
+2025-08-10 18:09:42 [jobscraper.pipelines] INFO: Successfully processed job: Remote Content Creators for Viral Video Project at Contra
+2025-08-10 18:09:44 [weworkremotely] INFO: Scraped job: Remote Marketing Strategist (LATAM) – Remote / Full-Time at The FS Agency
+2025-08-10 18:09:44 [jobscraper.pipelines] INFO: Created new company: The FS Agency
+2025-08-10 18:09:44 [jobscraper.pipelines] INFO: Updated existing job: 98
+2025-08-10 18:09:44 [jobscraper.pipelines] INFO: Successfully processed job: Remote Marketing Strategist (LATAM) – Remote / Full-Time at The FS Agency
+2025-08-10 18:09:46 [weworkremotely] INFO: Scraped job: Remote Head of Growth at Vinclum
+2025-08-10 18:09:46 [jobscraper.pipelines] INFO: Created new company: Vinclum
+2025-08-10 18:09:46 [jobscraper.pipelines] INFO: Updated existing job: 99
+2025-08-10 18:09:46 [jobscraper.pipelines] INFO: Successfully processed job: Remote Head of Growth at Vinclum
+2025-08-10 18:09:48 [weworkremotely] INFO: Scraped job: Remote Social Media Specialist at Cata-Kor
+2025-08-10 18:09:48 [jobscraper.pipelines] INFO: Created new company: Cata-Kor
+2025-08-10 18:09:48 [jobscraper.pipelines] INFO: Updated existing job: 100
+2025-08-10 18:09:48 [jobscraper.pipelines] INFO: Successfully processed job: Remote Social Media Specialist at Cata-Kor
+2025-08-10 18:09:50 [weworkremotely] INFO: Scraped job: Remote Website Manager at TITAN Containers
+2025-08-10 18:09:50 [jobscraper.pipelines] INFO: Created new company: TITAN Containers
+2025-08-10 18:09:50 [jobscraper.pipelines] INFO: Updated existing job: 101
+2025-08-10 18:09:50 [jobscraper.pipelines] INFO: Successfully processed job: Remote Website Manager at TITAN Containers
+2025-08-10 18:09:52 [weworkremotely] INFO: Scraped job: Remote SEO Manager at TITAN Containers
+2025-08-10 18:09:52 [jobscraper.pipelines] INFO: Updated existing job: 102
+2025-08-10 18:09:52 [jobscraper.pipelines] INFO: Successfully processed job: Remote SEO Manager at TITAN Containers
+2025-08-10 18:09:54 [weworkremotely] INFO: Scraped job: Remote Online Paid Advertising Specialist (Full-Time, Exclusive Role) at Lime Holdings (PTY) Ltd
+2025-08-10 18:09:54 [jobscraper.pipelines] INFO: Created new company: Lime Holdings (PTY) Ltd
+2025-08-10 18:09:54 [jobscraper.pipelines] INFO: Updated existing job: 103
+2025-08-10 18:09:54 [jobscraper.pipelines] INFO: Successfully processed job: Remote Online Paid Advertising Specialist (Full-Time, Exclusive Role) at Lime Holdings (PTY) Ltd
+2025-08-10 18:09:56 [weworkremotely] INFO: Scraped job: Remote $2.000+ monthly LinkedIn DM reply Job – USA TIMEZONE Countries ONLY – FULL TIME at Executive BootCamp
+2025-08-10 18:09:56 [jobscraper.pipelines] INFO: Created new company: Executive BootCamp
+2025-08-10 18:09:56 [jobscraper.pipelines] INFO: Updated existing job: 104
+2025-08-10 18:09:56 [jobscraper.pipelines] INFO: Successfully processed job: Remote $2.000+ monthly LinkedIn DM reply Job – USA TIMEZONE Countries ONLY – FULL TIME at Executive BootCamp
+2025-08-10 18:09:58 [weworkremotely] INFO: Scraped job: Remote Growth Lead at Forager
+2025-08-10 18:09:58 [jobscraper.pipelines] INFO: Created new company: Forager
+2025-08-10 18:09:58 [jobscraper.pipelines] INFO: Updated existing job: 105
+2025-08-10 18:09:58 [jobscraper.pipelines] INFO: Successfully processed job: Remote Growth Lead at Forager
+2025-08-10 18:10:00 [weworkremotely] INFO: Scraped job: Remote Freelance Narrative Designer at Crazy Maple Studio
+2025-08-10 18:10:00 [jobscraper.pipelines] INFO: Created new company: Crazy Maple Studio
+2025-08-10 18:10:00 [jobscraper.pipelines] INFO: Updated existing job: 106
+2025-08-10 18:10:00 [jobscraper.pipelines] INFO: Successfully processed job: Remote Freelance Narrative Designer at Crazy Maple Studio
+2025-08-10 18:10:02 [weworkremotely] INFO: Scraped job: Remote Sales Agent - Work from home - Worldwide at Unload My Home
+2025-08-10 18:10:02 [jobscraper.pipelines] INFO: Updated existing job: 107
+2025-08-10 18:10:02 [jobscraper.pipelines] INFO: Successfully processed job: Remote Sales Agent - Work from home - Worldwide at Unload My Home
+2025-08-10 18:10:04 [weworkremotely] INFO: Scraped job: Remote Remote Sales Representative - Worldwide at Unload My Home
+2025-08-10 18:10:04 [jobscraper.pipelines] INFO: Updated existing job: 108
+2025-08-10 18:10:04 [jobscraper.pipelines] INFO: Successfully processed job: Remote Remote Sales Representative - Worldwide at Unload My Home
+2025-08-10 18:10:06 [weworkremotely] INFO: Scraped job: Remote Rust Engineer at PropellerHeads
+2025-08-10 18:10:06 [jobscraper.pipelines] INFO: Created new company: PropellerHeads
+2025-08-10 18:10:06 [jobscraper.pipelines] INFO: Updated existing job: 109
+2025-08-10 18:10:06 [jobscraper.pipelines] INFO: Successfully processed job: Remote Rust Engineer at PropellerHeads
+2025-08-10 18:10:08 [weworkremotely] INFO: Scraped job: Senior Backend Engineer at Proton.ai
+2025-08-10 18:10:08 [jobscraper.pipelines] INFO: Created new company: Proton.ai
+2025-08-10 18:10:08 [jobscraper.pipelines] INFO: Updated existing job: 110
+2025-08-10 18:10:08 [jobscraper.pipelines] INFO: Successfully processed job: Senior Backend Engineer at Proton.ai
+2025-08-10 18:10:10 [weworkremotely] INFO: Scraped job: Remote Senior Software Engineer - Backend/Python - USA Only (100% Remote) at Close
+2025-08-10 18:10:10 [jobscraper.pipelines] INFO: Created new company: Close
+2025-08-10 18:10:10 [jobscraper.pipelines] INFO: Updated existing job: 111
+2025-08-10 18:10:10 [jobscraper.pipelines] INFO: Successfully processed job: Remote Senior Software Engineer - Backend/Python - USA Only (100% Remote) at Close
+2025-08-10 18:10:12 [weworkremotely] INFO: Scraped job: Remote Senior Back-end Architect at Swipe Games
+2025-08-10 18:10:12 [jobscraper.pipelines] INFO: Created new company: Swipe Games
+2025-08-10 18:10:12 [jobscraper.pipelines] INFO: Updated existing job: 112
+2025-08-10 18:10:12 [jobscraper.pipelines] INFO: Successfully processed job: Remote Senior Back-end Architect at Swipe Games
+2025-08-10 18:10:14 [weworkremotely] INFO: Scraped job: Senior Backend Engineer at Rep.ai
+2025-08-10 18:10:14 [jobscraper.pipelines] INFO: Created new company: Rep.ai
+2025-08-10 18:10:14 [jobscraper.pipelines] INFO: Updated existing job: 113
+2025-08-10 18:10:14 [jobscraper.pipelines] INFO: Successfully processed job: Senior Backend Engineer at Rep.ai
+2025-08-10 18:10:16 [weworkremotely] INFO: Scraped job: Remote Senior Software Engineer (Rails/LLMs) at TimeZest
+2025-08-10 18:10:16 [jobscraper.pipelines] INFO: Created new company: TimeZest
+2025-08-10 18:10:16 [jobscraper.pipelines] INFO: Updated existing job: 114
+2025-08-10 18:10:16 [jobscraper.pipelines] INFO: Successfully processed job: Remote Senior Software Engineer (Rails/LLMs) at TimeZest
+2025-08-10 18:10:18 [weworkremotely] INFO: Scraped job: Remote Senior Backend Engineer - Full Remote at Zencastr
+2025-08-10 18:10:18 [jobscraper.pipelines] INFO: Updated existing job: 115
+2025-08-10 18:10:18 [jobscraper.pipelines] INFO: Successfully processed job: Remote Senior Backend Engineer - Full Remote at Zencastr
+2025-08-10 18:10:21 [weworkremotely] INFO: Scraped job: Remote Senior Software Engineer, AI Model serving at Speechify Inc
+2025-08-10 18:10:21 [jobscraper.pipelines] INFO: Updated existing job: 116
+2025-08-10 18:10:21 [jobscraper.pipelines] INFO: Successfully processed job: Remote Senior Software Engineer, AI Model serving at Speechify Inc
+2025-08-10 18:10:22 [weworkremotely] INFO: Scraped job: Remote Mid-Senior Rails Systems Monitoring & Quality Assurance at WebPunch
+2025-08-10 18:10:22 [jobscraper.pipelines] INFO: Created new company: WebPunch
+2025-08-10 18:10:22 [jobscraper.pipelines] INFO: Updated existing job: 117
+2025-08-10 18:10:22 [jobscraper.pipelines] INFO: Successfully processed job: Remote Mid-Senior Rails Systems Monitoring & Quality Assurance at WebPunch
+2025-08-10 18:10:24 [weworkremotely] INFO: Scraped job: Remote UI Designer; FT or PT; North or South America at Custody X Change
+2025-08-10 18:10:24 [jobscraper.pipelines] INFO: Created new company: Custody X Change
+2025-08-10 18:10:24 [jobscraper.pipelines] INFO: Updated existing job: 118
+2025-08-10 18:10:24 [jobscraper.pipelines] INFO: Successfully processed job: Remote UI Designer; FT or PT; North or South America at Custody X Change
+2025-08-10 18:10:26 [weworkremotely] INFO: Scraped job: UI/UX Designer at Files.com
+2025-08-10 18:10:26 [jobscraper.pipelines] INFO: Created new company: Files.com
+2025-08-10 18:10:26 [jobscraper.pipelines] INFO: Updated existing job: 119
+2025-08-10 18:10:26 [jobscraper.pipelines] INFO: Successfully processed job: UI/UX Designer at Files.com
+2025-08-10 18:10:28 [weworkremotely] INFO: Scraped job: Remote Remote Sales Representative at UsedConex.com
+2025-08-10 18:10:28 [jobscraper.pipelines] INFO: Created new company: UsedConex.com
+2025-08-10 18:10:28 [jobscraper.pipelines] INFO: Updated existing job: 120
+2025-08-10 18:10:28 [jobscraper.pipelines] INFO: Successfully processed job: Remote Remote Sales Representative at UsedConex.com
+2025-08-10 18:10:30 [weworkremotely] INFO: Scraped job: Remote Senior Product Designer at MetaLab
+2025-08-10 18:10:30 [jobscraper.pipelines] INFO: Created new company: MetaLab
+2025-08-10 18:10:30 [jobscraper.pipelines] INFO: Updated existing job: 121
+2025-08-10 18:10:30 [jobscraper.pipelines] INFO: Successfully processed job: Remote Senior Product Designer at MetaLab
+2025-08-10 18:10:32 [weworkremotely] INFO: Scraped job: Remote Digital Design Engineer at Rivo (Front-End Focus) at Rivo Commerce
+2025-08-10 18:10:32 [jobscraper.pipelines] INFO: Created new company: Rivo (Front-End Focus) at Rivo Commerce
+2025-08-10 18:10:32 [jobscraper.pipelines] INFO: Updated existing job: 122
+2025-08-10 18:10:32 [jobscraper.pipelines] INFO: Successfully processed job: Remote Digital Design Engineer at Rivo (Front-End Focus) at Rivo Commerce
+2025-08-10 18:10:34 [weworkremotely] INFO: Scraped job: Remote Graphic Designer at Contra
+2025-08-10 18:10:34 [jobscraper.pipelines] INFO: Updated existing job: 123
+2025-08-10 18:10:34 [jobscraper.pipelines] INFO: Successfully processed job: Remote Graphic Designer at Contra
+2025-08-10 18:10:37 [weworkremotely] INFO: Scraped job: Remote Video Editor at Contra
+2025-08-10 18:10:37 [jobscraper.pipelines] INFO: Updated existing job: 124
+2025-08-10 18:10:37 [jobscraper.pipelines] INFO: Successfully processed job: Remote Video Editor at Contra
+2025-08-10 18:10:39 [weworkremotely] INFO: Scraped job: Remote Senior Product Designer UX (m/f/d) (Remote – CET ±4h) at SocialHub
+2025-08-10 18:10:39 [jobscraper.pipelines] INFO: Updated existing job: 125
+2025-08-10 18:10:39 [jobscraper.pipelines] INFO: Successfully processed job: Remote Senior Product Designer UX (m/f/d) (Remote – CET ±4h) at SocialHub
+2025-08-10 18:10:41 [weworkremotely] INFO: Scraped job: Remote Freelance Romance Writer at Crazy Maple Studio
+2025-08-10 18:10:41 [jobscraper.pipelines] INFO: Updated existing job: 126
+2025-08-10 18:10:41 [jobscraper.pipelines] INFO: Successfully processed job: Remote Freelance Romance Writer at Crazy Maple Studio

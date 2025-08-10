@@ -1,8 +1,10 @@
 # scrapers/jobscraper/spiders/weworkremotely.py
 import scrapy
 import re
+import json
 from urllib.parse import urljoin
 from datetime import datetime
+from django.utils import timezone
 from jobscraper.items import JobItem
 
 
@@ -73,18 +75,160 @@ class WeWorkRemotelySpider(scrapy.Spider):
             self.logger.error(f"Error parsing job from {response.url}: {str(e)}")
     
     def _extract_title(self, response):
-        """Extract job title"""
-        title = response.css('h1.page-title::text').get()
-        if not title:
-            title = response.css('.listing-header h2::text').get()
-        return title.strip() if title else 'Unknown Title'
+        """Extract job title with JSON-LD, meta tag, and DOM fallbacks"""
+        # Try JSON-LD first
+        data = self._extract_from_json_ld(response)
+        if data.get('title'):
+            return data['title']
+
+        # Direct selectors first
+        title_selectors = [
+            'h1.page-title::text',
+            '.listing-header h1::text',
+            '.listing-header h2::text',
+            'h1::text',
+            '.listing-header-container h1::text',
+            '.listing-header-container h2::text',
+            '.listing-header-content h1::text',
+            '.listing-header-content h2::text',
+        ]
+        for sel in title_selectors:
+            value = response.css(sel).get()
+            if value and value.strip():
+                return value.strip()
+
+        # Try meta tags
+        meta_title = self._extract_meta_title(response)
+        if meta_title:
+            cleaned = meta_title.replace('– We Work Remotely', '').replace('- We Work Remotely', '').strip()
+            # Try to split company/title patterns and return the probable title
+            _, probable_title = self._parse_company_and_title(cleaned)
+            if probable_title:
+                return probable_title
+
+        # Last resort: document <title>
+        doc_title = response.css('title::text').get()
+        if doc_title:
+            cleaned = doc_title.replace('– We Work Remotely', '').replace('- We Work Remotely', '').strip()
+            _, probable_title = self._parse_company_and_title(cleaned)
+            if probable_title:
+                return probable_title
+
+        return 'Unknown Title'
     
     def _extract_company(self, response):
-        """Extract company name"""
-        company = response.css('.company h2 a::text').get()
-        if not company:
-            company = response.css('.listing-header .company::text').get()
-        return company.strip() if company else 'Unknown Company'
+        """Extract company name with JSON-LD, meta, and DOM fallbacks"""
+        # Try JSON-LD first
+        data = self._extract_from_json_ld(response)
+        hiring_org = data.get('hiringOrganization')
+        if isinstance(hiring_org, dict) and hiring_org.get('name'):
+            return hiring_org['name'].strip()
+
+        company_selectors = [
+            '.company h2 a::text',
+            '.company a::text',
+            '.company::text',
+            '.company-card h3::text',
+            '.company-card .name::text',
+            '.listing-header .company::text',
+            '.listing-header .company a::text',
+            '.listing-header-container .company::text',
+            '.listing-header-container .company a::text',
+            '.listing-company a::text',
+            '.company-name::text',
+        ]
+        for sel in company_selectors:
+            value = response.css(sel).get()
+            if value and value.strip():
+                return value.strip()
+
+        # Parse from meta title if available (common pattern on WWR)
+        meta_title = self._extract_meta_title(response)
+        if meta_title:
+            cleaned = meta_title.replace('– We Work Remotely', '').replace('- We Work Remotely', '').strip()
+            company, _ = self._parse_company_and_title(cleaned)
+            if company:
+                return company
+
+        # Fallback: parse from document title
+        doc_title = response.css('title::text').get()
+        if doc_title:
+            cleaned = doc_title.replace('– We Work Remotely', '').replace('- We Work Remotely', '').strip()
+            company, _ = self._parse_company_and_title(cleaned)
+            if company:
+                return company
+
+        return 'Unknown Company'
+
+    def _extract_meta_title(self, response):
+        """Get a meaningful title from meta tags if present"""
+        meta_candidates = [
+            'meta[property="og:title"]::attr(content)',
+            'meta[name="twitter:title"]::attr(content)',
+        ]
+        for sel in meta_candidates:
+            value = response.css(sel).get()
+            if value and value.strip():
+                return value.strip()
+        return ''
+
+    def _parse_company_and_title(self, text):
+        """Heuristically split company and title from combined text.
+        Returns tuple (company, title). Either may be empty string if not inferred.
+        Common WWR forms:
+          - "Company – Job Title"
+          - "Company is hiring a Job Title"
+          - "Job Title at Company"
+        """
+        try:
+            lowered = text.lower()
+            # Pattern: Company is hiring a Job Title
+            match = re.search(r'^(.*?)\s+is\s+hiring\s+(?:an?\s+)?(.+)$', text, re.IGNORECASE)
+            if match:
+                return match.group(1).strip(), match.group(2).strip()
+
+            # Pattern: Job Title at Company
+            match = re.search(r'^(.*?)\s+at\s+(.+)$', text, re.IGNORECASE)
+            if match:
+                return match.group(2).strip(), match.group(1).strip()
+
+            # Pattern: Company – Job Title (en dash or hyphen)
+            splitter = '–' if '–' in text else ('-' if '-' in text else None)
+            if splitter:
+                left, right = [part.strip() for part in text.split(splitter, 1)]
+                # Heuristics: if right looks like a job title (contains common role terms), treat right as title
+                role_terms = ['engineer', 'developer', 'designer', 'manager', 'devops', 'scientist', 'analyst', 'architect']
+                if any(term in right.lower() for term in role_terms):
+                    return left, right
+                # Otherwise swap
+                return right, left
+        except Exception:
+            pass
+        return '', ''
+
+    def _extract_from_json_ld(self, response):
+        """Parse application/ld+json blocks for JobPosting data"""
+        result = {}
+        try:
+            for script in response.css('script[type="application/ld+json"]::text').getall():
+                script = script.strip()
+                if not script:
+                    continue
+                data = json.loads(script)
+                # Some pages wrap data in a list
+                candidates = data if isinstance(data, list) else [data]
+                for cand in candidates:
+                    if isinstance(cand, dict) and cand.get('@type') in ('JobPosting', 'Posting'):
+                        if 'title' in cand:
+                            result['title'] = cand['title']
+                        if 'hiringOrganization' in cand:
+                            result['hiringOrganization'] = cand['hiringOrganization']
+                        if 'datePosted' in cand:
+                            result['datePosted'] = cand['datePosted']
+                        return result
+        except Exception:
+            pass
+        return result
     
     def _extract_job_id(self, url):
         """Extract job ID from URL"""
@@ -200,19 +344,23 @@ class WeWorkRemotelySpider(scrapy.Spider):
         return list(set(valid_skills))[:10]  # Limit to 10 skills
     
     def _extract_posted_date(self, response):
-        """Extract posting date"""
-        date_text = response.css('.listing-date::text').get()
-        
-        if date_text:
-            # Try to parse common date formats
+        """Extract posting date; prefer JSON-LD, then page text; return timezone-aware datetime"""
+        # JSON-LD datePosted if available
+        data = self._extract_from_json_ld(response)
+        iso_dt = data.get('datePosted')
+        if iso_dt:
             try:
-                # Handle formats like "2 days ago", "1 week ago", etc.
-                if 'ago' in date_text:
-                    return datetime.now()  # For now, just use current time
-                else:
-                    # Try to parse actual dates
-                    return datetime.strptime(date_text.strip(), '%Y-%m-%d')
+                # Try fromisoformat first
+                return datetime.fromisoformat(iso_dt.replace('Z', '+00:00'))
+            except Exception:
+                pass
+
+        date_text = response.css('.listing-date::text').get()
+        if date_text:
+            try:
+                if 'ago' in date_text.lower():
+                    return timezone.now()
+                return datetime.strptime(date_text.strip(), '%Y-%m-%d')
             except ValueError:
                 pass
-        
-        return datetime.now()  # Default to now
+        return timezone.now()
